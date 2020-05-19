@@ -1,0 +1,18 @@
+{
+  "name": "awilix-cyclic-dep-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index"
+  },
+  "keywords": [],
+  "author": "Roman Filippov",
+  "license": "ISC",
+  "dependencies": {
+    "@scaleleap/config": "1.6.1",
+    "awilix": "4.2.6",
+    "ts-node": "8.10.1",
+    "typescript": "3.9.2"
+  }
+}
